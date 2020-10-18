@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">appCuento</string>
+    <string name="main_activity_titulo">MI APP DE CUENTOS</string>
+    <string name="main_activity_nombre">Nombre</string>
+    <string name="main_activity_apellidos">Apellidos</string>
+    <string name="main_activity_edad">Edad</string>
+    <string name="main_activity_entrar">Entrar</string>
+    <string name="menu_titulo">Elige un tipo de cuento</string>
+    <string name="menu_boton1">Corto</string>
+    <string name="menu_boton2">Largo</string>
+    <string name="menu_boton3">Salir</string>
+    <string name="selecciona_corto">Selecciona tu cuento</string>
+    <string name="selecciona_corto_boton1">Saltan y saltan</string>
+    <string name="selecciona_corto_boton2">Regresar</string>
+    <string name="s1_titulo">Saltan y saltan</string>
+    <string name="s1_p1">Saltan y saltan
+y vuelven a saltar
+los siete enanitos
+en el pajar.
+Saltan y saltan
+y vuelven a saltar,
+al bosque encantado
+quieren llegar.</string>
+    <string name="s1_boton1">Siguiente</string>
+    <string name="s1_p2">Uno se cansa
+y se queda atrasito,
+otro se enferma
+y se va despasito.
+Saltan y saltan
+y vuelven a saltar
+los cinco enanitos
+que quedan nomás.</string>
+    <string name="s1_p3">
+Otro se pierde
+por el camino
+y otro se sienta
+a comer pepino.
+Saltan y saltan
+y vuelven a saltar
+los tres enanitos
+que quedan nomás.</string>
+    <string name="s1_p4">
+Otro se pasma
+y se queda dormido,
+otro se tropieza
+y está mal herido.
+Saltan y saltan
+y vuelven a saltar,
+un solo enanito
+al bosque va a llegar.</string>
+    <string name="s1_p5">
+La reina Enanita
+lo estaba esperando
+y la boda en grande
+se está celebrando.</string>
+    <string name="s5">Menú</string>
+    <string name="menu1">Bienvenido</string>
+    <string name="menu2">!</string>
+
+
+    <string name="todo">TODO</string>
+</resources>
